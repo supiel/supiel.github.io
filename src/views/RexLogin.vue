@@ -35,7 +35,7 @@
                   </b-input-group>
                 </b-form>
 
-                <b-button block variant="primary" class="topMargin1" type="submit"><router-link to='/password'>로그인</router-link></b-button>
+                <b-button block variant="primary" class="topMargin1" type="submit">로그인</b-button>
                 <div class="passwordLink"><router-link to='/password'>비밀번호 찾기</router-link></div>
               </b-form>
 
